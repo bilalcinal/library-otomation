@@ -1,0 +1,18 @@
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\Entity\obj\Debug\Entity.Properties.Resources.resources
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\Entity\obj\Debug\Entity.csproj.GenerateResource.cache
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\Entity\bin\Debug\Entity.dll.config
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\Entity\bin\Debug\Entity.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\Entity\bin\Debug\Entity.pdb
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\Entity\obj\Debug\Entity.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\Entity\obj\Debug\Entity.pdb
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\Entity\bin\Debug\Entity.dll.config
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\Entity\bin\Debug\Entity.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\Entity\bin\Debug\Entity.pdb
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\Entity\obj\Debug\Entity.Properties.Resources.resources
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\Entity\obj\Debug\Entity.csproj.GenerateResource.cache
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\Entity\obj\Debug\Entity.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\Entity\obj\Debug\Entity.pdb

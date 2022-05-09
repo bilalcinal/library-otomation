@@ -1,0 +1,295 @@
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.BookSearch.resources
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.Book_Management.resources
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.Graphic.resources
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.Main_Menu.resources
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.Staff_Access_Menu.resources
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.Staff_Management.resources
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.Student_Access_Menu.resources
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.Student_Information.resources
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.Student_Management.resources
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\appium-dotnet-driver.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\AT.Base.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\AT.Service.BusinessLayer.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\AT.Service.DataLayer.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\AT.Service.ModelFramework.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\AT.SSO.BusinessLayer.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\AT.SSO.DataLayer.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\AT.SSO.ModelFramework.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\AtlasGUIAutomationFramework.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\CommandAndControlBLL.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\CommandAndControlDAL.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\CommandAndControlEntity.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Coypu.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\DataAccessLayer.Core.EntityFramework.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\DataAccessLayer.Core.Interfaces.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Elfin.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Entity.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\nunit.framework.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Remotion.Linq.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\SpiraTestFramework.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\System.Interactive.Async.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\WebDriver.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\WebDriver.Support.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Entity.pdb
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Entity.dll.config
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\AtlasGUIAutomationFramework.pdb
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\AtlasGUIAutomationFramework.dll.config
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\CommandAndControlBLL.pdb
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\CommandAndControlDAL.pdb
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\CommandAndControlEntity.pdb
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Coypu.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\nunit.framework.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\Remotion.Linq.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\SpiraTestFramework.pdb
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\System.Interactive.Async.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\WebDriver.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\WebDriver.Support.xml
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\hbila\Desktop\görsel proje\WindowsFormsApp1\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\appium-dotnet-driver.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\AT.Base.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\AT.Service.BusinessLayer.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\AT.Service.DataLayer.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\AT.Service.ModelFramework.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\AT.SSO.BusinessLayer.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\AT.SSO.DataLayer.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\AT.SSO.ModelFramework.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\AtlasGUIAutomationFramework.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\CommandAndControlBLL.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\CommandAndControlDAL.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\CommandAndControlEntity.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Coypu.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\DataAccessLayer.Core.EntityFramework.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\DataAccessLayer.Core.Interfaces.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Elfin.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Entity.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\nunit.framework.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Remotion.Linq.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\SpiraTestFramework.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Interactive.Async.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\WebDriver.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\WebDriver.Support.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Entity.pdb
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Entity.dll.config
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\AtlasGUIAutomationFramework.pdb
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\AtlasGUIAutomationFramework.dll.config
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\CommandAndControlBLL.pdb
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\CommandAndControlDAL.pdb
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\CommandAndControlEntity.pdb
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Coypu.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\nunit.framework.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\Remotion.Linq.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\SpiraTestFramework.pdb
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Interactive.Async.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\WebDriver.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\WebDriver.Support.xml
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.BookSearch.resources
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Book_Management.resources
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Graphic.resources
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Main_Menu.resources
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Staff_Access_Menu.resources
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Staff_Management.resources
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Student_Access_Menu.resources
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Student_Information.resources
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Student_Management.resources
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\hbila\Desktop\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\appium-dotnet-driver.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\AT.Base.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\AT.Service.BusinessLayer.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\AT.Service.DataLayer.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\AT.Service.ModelFramework.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\AT.SSO.BusinessLayer.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\AT.SSO.DataLayer.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\AT.SSO.ModelFramework.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\AtlasGUIAutomationFramework.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\CommandAndControlBLL.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\CommandAndControlDAL.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\CommandAndControlEntity.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Coypu.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\DataAccessLayer.Core.EntityFramework.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\DataAccessLayer.Core.Interfaces.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Elfin.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Entity.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\nunit.framework.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Remotion.Linq.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\SpiraTestFramework.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Interactive.Async.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\WebDriver.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\WebDriver.Support.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Entity.pdb
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Entity.dll.config
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\AtlasGUIAutomationFramework.pdb
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\AtlasGUIAutomationFramework.dll.config
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\CommandAndControlBLL.pdb
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\CommandAndControlDAL.pdb
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\CommandAndControlEntity.pdb
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Coypu.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\nunit.framework.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\Remotion.Linq.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\SpiraTestFramework.pdb
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Interactive.Async.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\WebDriver.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\WebDriver.Support.xml
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.BookSearch.resources
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Book_Management.resources
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Graphic.resources
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Main_Menu.resources
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Staff_Access_Menu.resources
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Staff_Management.resources
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Student_Access_Menu.resources
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Student_Information.resources
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.Student_Management.resources
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Batuhan\Downloads\görsel proje\görsel proje\library otomation\PresentationLayer\obj\Debug\PresentationLayer.pdb
